@@ -1,6 +1,6 @@
 module github.com/jkrebian/blog
 
-go 1.26.0
+go 1.25.1
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240217212918-ae7f0c597978
